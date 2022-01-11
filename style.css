@@ -1,0 +1,15 @@
+body
+{
+	text-align: center;
+	background-image: url("one piece.jpg");
+	background-size: cover;
+}
+div
+{
+width: 500px;
+padding: 10px;
+border: 5px solid black;
+margin-right: auto;
+margin-left: auto;
+background-color: white;
+}
